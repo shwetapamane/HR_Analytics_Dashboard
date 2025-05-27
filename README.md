@@ -18,7 +18,7 @@ This Power BI dashboard provides a comprehensive analysis of employee attrition 
 - **Attrition by Gender**: Male attrition is higher compared to female.
 
 ## 📷 Dashboard Preview:
-![HR Analytics Dashboard](hr.PNG)
+![HR Analytics Dashboard](Dashboard.PNG)
 
 ## 🛠 Tools Used:
 - Power BI for data visualization
