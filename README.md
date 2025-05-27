@@ -20,10 +20,7 @@ This Power BI dashboard provides a comprehensive analysis of employee attrition 
 ## 📷 Dashboard Preview:
 ![HR Analytics Dashboard](Dashboard.PNG)
 
-## 🛠 Tools Used:
-- Power BI for data visualization
-- Dataset sourced from a YouTube tutorial
 
 ---
 
-> 📌 *This project is a part of my learning journey to master Power BI and data storytelling. More dashboards coming soon!*
+> 
